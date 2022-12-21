@@ -31,8 +31,8 @@
 //#define BLYNK_TEMPLATE_ID   "YourTemplateID"
 
 #define BLYNK_TEMPLATE_ID "TMPLy5JxiXd0"
-#define BLYNK_DEVICE_NAME "Tap Monitoring System IOT"
-#define BLYNK_AUTH_TOKEN "5iC4Ia8EmXwzMtpo8YayusTmYEHIff0p"
+#define BLYNK_DEVICE_NAME "xxxx"
+#define BLYNK_AUTH_TOKEN "xxxxx"
 
 // You could use a spare Hardware Serial on boards that have it (like Mega)
 #include <SoftwareSerial.h>
